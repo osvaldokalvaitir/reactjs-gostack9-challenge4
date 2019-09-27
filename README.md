@@ -83,3 +83,80 @@ posts.map(post => <Post key={post.id} data={post} />)
 ```js
 data.comments.map(comment => <Comment key={comment.id} data={comment} />)
 ```
+
+## Índice
+
+- [Capturas de Tela](#capturas-de-tela)
+
+  - [Principal](#principal)
+
+- [Desenvolvimento](#desenvolvimento)
+
+  - [Configuração do Ambiente](#configuração-do-ambiente)
+
+  - [Instalação do Projeto](#instalação-do-projeto)
+
+  - [Execução do Projeto](#execução-do-projeto)
+
+- [Utilizados no Projeto](#utilizados-no-projeto)
+
+  - [Bibliotecas](#bibliotecas)
+
+  - [Ferramentas](#ferramentas)
+
+## Capturas de Tela
+
+### Principal
+
+![Main](/assets/main.png)
+Esta é a única tela do site, onde aparecem os posts estáticos dos usuários.
+
+## Desenvolvimento
+
+### Configuração do Ambiente
+
+Clique [aqui](https://github.com/osvaldokalvaitir/projects-settings/blob/master/README.md) e siga `Configuração de Ambiente`.
+
+### Instalação do Projeto
+
+Clique [aqui](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/nodejs.md) e siga `Instalação de Projeto`.
+
+### Execução do Projeto
+
+Clique [aqui](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/webpack.md) e siga `Execução de Projeto para Desenvolvimento` ou `Construção e Execução de Projeto para Produção`.
+
+## Utilizados no Projeto
+
+### Bibliotecas
+
+- [@babel/core](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/@babel-core.md)
+
+- [@babel/plugin-proposal-class-properties](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/@babel-plugin-proposal-class-properties.md)
+
+- [@babel/preset-env](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/@babel-preset-env.md)
+
+- [@babel/preset-react](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/@babel-preset-react.md)
+
+- [Babel Loader](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/babel-loader.md)
+
+- [CSS Loader](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/css-loader.md)
+
+- [File Loader](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/file-loader.md)
+
+- [prop-types](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/prop-types.md)
+
+- [React](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/react.md)
+
+- [react-dom](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/react-dom.md)
+
+- [Style Loader](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/style-loader.md)
+
+- [webpack](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/webpack.md)
+
+- [webpack-cli](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/webpack-cli.md)
+
+- [webpack-dev-server](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/webpack-dev-server.md)
+
+### Ferramentas
+
+- [React Developer Tools](https://github.com/osvaldokalvaitir/projects-settings/blob/master/browser/chrome/extensions/react-developer-tools.md)
