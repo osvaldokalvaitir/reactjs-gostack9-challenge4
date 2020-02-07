@@ -22,19 +22,19 @@ As informações contidas na interface são **estáticas** e não precisam refle
 
 ### Tela da aplicação
 
-![Facebook](assets/facebook.png)
+![Facebook](/.github/assets/facebook.png)
 
 O layout não precisa ficar exatamente igual, você pode utilizar sua criatividade para modificar da maneira que preferir.
 
 O mais importante é que todos elementos apareçam em tela.
 
-O layout da aplicação está em [nesse link](assets/layout.sketch) que pode ser aberto por essa ferramenta gratuita e online: https://www.figma.com/
+O layout da aplicação está em [nesse link](/.github/assets/layout.sketch) que pode ser aberto por essa ferramenta gratuita e online: https://www.figma.com/
 
 ### Componentes
 
 Na imagem abaixo destaquei cada componente que você criará e abaixo da imagem está a descrição e responsabilidades de cada um:
 
-![Componentes](assets/components.png)
+![Componentes](/.github/assets/components.png)
 
 **Header (Amarelo):** Responsável por exibir a logo e o link para acessar o perfil;
 
@@ -108,7 +108,7 @@ data.comments.map(comment => <Comment key={comment.id} data={comment} />)
 
 ### Principal
 
-![Main](/assets/main.png)
+![Main](/.github/assets/main.png)
 Esta é a única tela do site, onde aparecem os posts estáticos dos usuários.
 
 ## Desenvolvimento
