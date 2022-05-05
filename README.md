@@ -54,6 +54,8 @@ npm install | yarn
 npm dev | yarn dev
 ```
 
+Click to learn more about the tools used: [React Developer Tools](https://github.com/osvaldokalvaitir/awesome/blob/main/src/browsers/chrome/extensions/react-developer-tools.md).
+
 ## :memo: License
 
 This project is under the MIT license. See [LICENSE](/LICENSE) for more information.
